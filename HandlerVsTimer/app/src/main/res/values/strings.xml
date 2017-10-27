@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlerVsTimer</string>
+    <string name="title_android">Android</string>
+    <string name="title_java">Java</string>
+</resources>
